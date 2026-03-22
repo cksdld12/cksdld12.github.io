@@ -59,7 +59,22 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{
+      },{id: "projects-bayesian-synthetic-control",
+          title: 'Bayesian Synthetic Control',
+          description: "Serial Dependence and Inference in Bayesian Synthetic Control",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_bscm/";
+            },},{id: "projects-bayesian-market-analysis",
+          title: 'Bayesian Market Analysis',
+          description: "Quantitative modeling for financial markets using Bayesian methods",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_quant/";
+            },},{id: "projects-cryptocurrency-quantitative-modeling",
+          title: 'Cryptocurrency Quantitative Modeling',
+          description: "Bayesian approaches to cryptocurrency market analysis",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_crypto/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
