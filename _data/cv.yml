@@ -2,34 +2,37 @@ cv:
   name: Chan Park
   label: M.A. Candidate in Economics
   email: chanpark97@sogang.ac.kr
-  location: Seoul, South Korea
   image: ""
   summary: Bayesian Econometrics, Time Series, Causal Inference, Quantitative Finance
 
   sections:
     Education:
       - institution: Sogang University
-        location: Seoul, South Korea
         area: Economics
         studyType: M.A.
-        start_date: 2024-03
-        end_date: Present (Expected 2026-08)
-        highlights: []
+        start_date: 2024
+        end_date: Present
+        highlights:
+          - "Expected graduation: August 2026"
 
       - institution: University of Ulsan
-        location: Ulsan, South Korea
-        area: Business Administration
-        studyType: B.A.
-        start_date: 2020-03
-        end_date: 2024-02
+        area: Business
+        studyType: B.B.A.
+        start_date: 2020
+        end_date: 2024
         highlights: []
 
     Skills:
       - category: Programming
-        skills: Python, R, MATLAB, Stata, LaTeX
+        skills:
+          - Python
+          - R
+          - MATLAB
+          - Stata
+          - LaTeX
 
     Awards:
       - title: Teaching Assistant Scholarship
-        date: 2024 - 2025
+        date: 2024-2025
         awarder: Sogang University
-        summary: 4 semesters
+        summary: Awarded for 4 consecutive semesters
