@@ -27,7 +27,7 @@ latest_posts:
   limit: 3
 ---
 
-I am a Master's candidate in Economics at Sogang University, advised by Prof. Jaeho Kim. My research focuses on Bayesian econometrics, time series analysis, and causal inference methods.
+I am a Master's candidate in Economics at Sogang University, My research focuses on Bayesian econometrics, time series analysis, and causal inference methods.
 
 I am particularly interested in developing Bayesian approaches to synthetic control methods, quantitative modeling for financial markets, and applying modern econometric techniques to cryptocurrency and asset pricing.
 
