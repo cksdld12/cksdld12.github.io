@@ -59,7 +59,22 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{
+      },{id: "projects-bayesian-volatility-modeling",
+          title: 'Bayesian Volatility Modeling',
+          description: "Identifying rough, long-memory, and path-dependent volatility structures in cryptocurrency markets using the Hurst exponent and tiered Bayesian inference",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_volatility/";
+            },},{id: "projects-bayesian-synthetic-control",
+          title: 'Bayesian Synthetic Control',
+          description: "Developing Bayesian approaches to synthetic control methods that account for serial dependence in treatment effect estimation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_bscm/";
+            },},{id: "projects-high-dimensional-network-recovery",
+          title: 'High-Dimensional Network Recovery',
+          description: "Recovering network structures in high-dimensional settings via block-structured Bayesian shrinkage in vector autoregressions",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_network/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
