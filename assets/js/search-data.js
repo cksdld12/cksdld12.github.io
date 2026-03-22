@@ -59,21 +59,31 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "projects-bayesian-synthetic-control",
+      },{id: "projects-block-structured-bayesian-shrinkage-for-high-dimensional-vars",
+          title: 'Block-Structured Bayesian Shrinkage for High-Dimensional VARs',
+          description: "Block-structured Bayesian shrinkage estimation for high-dimensional vector autoregressions",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_bnp/";
+            },},{id: "projects-financial-shocks-and-the-real-economy-in-korea",
+          title: 'Financial Shocks and the Real Economy in Korea',
+          description: "Evidence from Excess Bond Premium Decomposition",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_ebp/";
+            },},{id: "projects-product-substitutability-and-political-trade-shocks",
+          title: 'Product Substitutability and Political Trade Shocks',
+          description: "Evidence from the 2019 Korea-Japan Trade Dispute",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_trade/";
+            },},{id: "projects-tiered-bayesian-approach-to-volatility-modeling",
+          title: 'Tiered Bayesian Approach to Volatility Modeling',
+          description: "What Can Daily Volatility Data Identify? A Tiered Bayesian Approach to Rough, Long-Memory, and Path-Dependent Volatility",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_volatility/";
+            },},{id: "projects-bayesian-synthetic-control",
           title: 'Bayesian Synthetic Control',
           description: "Serial Dependence and Inference in Bayesian Synthetic Control",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_bscm/";
-            },},{id: "projects-bayesian-market-analysis",
-          title: 'Bayesian Market Analysis',
-          description: "Quantitative modeling for financial markets using Bayesian methods",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_quant/";
-            },},{id: "projects-cryptocurrency-quantitative-modeling",
-          title: 'Cryptocurrency Quantitative Modeling',
-          description: "Bayesian approaches to cryptocurrency market analysis",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_crypto/";
+              window.location.href = "/projects/5_bscm/";
             },},{
         id: 'social-email',
         title: 'email',
