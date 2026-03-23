@@ -89,6 +89,13 @@ ninja.data = [{
           window.open("https://orcid.org/0009-0004-3641-0770", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/찬-박-331b64397", "_blank");
+        },
+      },{
         id: 'social-rss',
         title: 'RSS Feed',
         section: 'Socials',
