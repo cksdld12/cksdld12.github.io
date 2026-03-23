@@ -93,7 +93,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/찬-박-331b64397", "_blank");
+          window.open("https://www.linkedin.com/in/qkrchan97", "_blank");
         },
       },{
         id: 'social-rss',
