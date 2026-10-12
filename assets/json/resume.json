@@ -3,7 +3,7 @@
     "name": "Chan Park",
     "label": "M.A. Candidate in Economics",
     "email": "chanpark97@sogang.ac.kr",
-    "summary": "Bayesian Econometrics, Time Series, Causal Inference, Quantitative Finance"
+    "summary": "Bayesian Econometrics, Causal Inference and Policy Evaluation, Applied Time Series Econometrics, Empirical Macro-Finance"
   },
   "education": [
     {
@@ -11,8 +11,11 @@
       "area": "Economics",
       "studyType": "M.A.",
       "startDate": "2024",
-      "endDate": "Present",
-      "courses": ["Expected graduation: August 2026"]
+      "endDate": "2027",
+      "courses": [
+        "Expected graduation: February 2027",
+        "Advisor: Professor Jaeho Kim"
+      ]
     },
     {
       "institution": "University of Ulsan",
@@ -34,7 +37,13 @@
   "skills": [
     {
       "name": "Programming & Tools",
-      "keywords": ["Python", "R", "MATLAB", "Stata", "LaTeX"]
+      "keywords": [
+        "Python",
+        "R",
+        "MATLAB",
+        "Stata",
+        "LaTeX"
+      ]
     }
   ]
 }
